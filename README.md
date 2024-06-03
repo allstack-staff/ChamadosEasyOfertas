@@ -31,6 +31,7 @@ Vc pode ver como vai ficar após publicar. Para isso, clique na guia preview den
 5. Aplique as labels necessárias e clique no botão verde para submeter o chamado a equipe.
 ![image](https://github.com/allstack-staff/ChamadosEasyOfertas/assets/67238467/6d754897-a449-4214-8e37-f38770f8b9f5)
 
+IMPORTANTE! Caso não saiba usar alguma das caracteristicas explicadas, sem problemas! Apenas abra o chamado com o titulo, descrição e evidencia, durante a triagem, o moderador irá organizar seu chamado.
 
 ## As labels
 
