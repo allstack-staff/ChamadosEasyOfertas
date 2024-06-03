@@ -2,4 +2,4 @@
 
 ### Como abrir um chamado?
 
-No topo desta página, existem várioas guias. Clique em <b>Issues</b>.
+1. No topo desta página, existem várioas guias. Clique em <b>Issues</b>.
