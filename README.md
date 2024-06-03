@@ -27,3 +27,23 @@ O chamado é desenvolvido em 3 partes:
 
 Vc pode ver como vai ficar após publicar. Para isso, clique na guia preview dentro do campo de descrição.
 ![image](https://github.com/allstack-staff/ChamadosEasyOfertas/assets/67238467/66c1b5fa-6735-43f6-98ac-0a2f48ec5c57)
+
+5. Aplique as labels necessárias e clique no botão verde para submeter o chamado a equipe.
+![image](https://github.com/allstack-staff/ChamadosEasyOfertas/assets/67238467/6d754897-a449-4214-8e37-f38770f8b9f5)
+
+
+## As labels
+
+Vamos entender as labels? Labels são como tags, ou seja, etiquetas (ou marcações) que vc deve selecioná-las ao submeter um chamado. Vamos entender cada uma delas.
+
+### Labels de Seção
+Labels de seção representam as seções dentro do Easy Ofertas. Cada seção vc pode identificar pela barra lateral ao local.
+![image](https://github.com/allstack-staff/ChamadosEasyOfertas/assets/67238467/2fc1c53a-1e01-43ce-ab70-c8813a49c187)
+As labels de seção estão identificadas entre [chaves]. Veja.
+![image](https://github.com/allstack-staff/ChamadosEasyOfertas/assets/67238467/691c486a-c5a6-4607-99b2-4103d7476f6a)
+Selecione a seção onde o problema que encontrou está ocorrendo dentro do sistema.
+
+### Labels de entidade
+Labels de entidade representam as entidades presentes no sistema. Elas são importantes para direcionar sua demanda.
+As labels de entidade estão identificadas entre (parenteses). Veja.
+![image](https://github.com/allstack-staff/ChamadosEasyOfertas/assets/67238467/6285e738-5b39-41af-ae77-c76d327b3787)
