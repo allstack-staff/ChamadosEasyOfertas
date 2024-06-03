@@ -48,3 +48,8 @@ Selecione a seção onde o problema que encontrou está ocorrendo dentro do sist
 Labels de entidade representam as entidades presentes no sistema. Elas são importantes para direcionar sua demanda.
 As labels de entidade estão identificadas entre (parenteses). Veja.
 ![image](https://github.com/allstack-staff/ChamadosEasyOfertas/assets/67238467/6285e738-5b39-41af-ae77-c76d327b3787)
+
+Selecione a entidade onde o problema que encontrou está ocorrendo dentro do sistema. Use a descrição delas para entender cada uma.
+
+### Prioridade
+Existe apenas uma label de prioridade, chamada "*ALTA". Ela tem um asterisco a frente e escrita com caixa alta. Use-a <b>sempre que o problema encontrado estão afetando seus negócios</b>.
