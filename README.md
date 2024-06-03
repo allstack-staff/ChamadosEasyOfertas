@@ -5,9 +5,9 @@ Aqui é a área do cliente. Isto é, aqui vc pode abrir chamados para a equipe A
 Vc abre um chamado sempre que desejar entrar em contato com a equipe de desenvolvimento. Usar uma área ou um sistema para isso é importante para organizar e registrar as demandas entre cliente/equipe. Portanto, sempre considere abrir um chamado. 
 ### O processo
 O chamado é desenvolvido em 3 partes:
-1. Abertura, feita pelo cliente (solicitante);
-2. Atendimento (realizado pela por um ou mais membros da equipe);
-3. Encerramento (realizado pelo moderador, quando a demanda foi concluída).
+1. <b>Abertura</b>, feita pelo cliente (solicitante);
+2. <b>Atendimento</b> (realizado pela por um ou mais membros da equipe);
+3. <b>Encerramento</b> (realizado pelo moderador, quando a demanda foi concluída).
 
 ### Os procedimentos
 1. Após vc abrir o chamado, entra o período de atendimento. Logo apos abrir, o atendimento começa por uma triagem.
