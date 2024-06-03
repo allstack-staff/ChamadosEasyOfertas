@@ -39,6 +39,7 @@ Vamos entender as labels? Labels são como tags, ou seja, etiquetas (ou marcaç�
 ### Labels de Seção
 Labels de seção representam as seções dentro do Easy Ofertas. Cada seção vc pode identificar pela barra lateral ao local.
 ![image](https://github.com/allstack-staff/ChamadosEasyOfertas/assets/67238467/2fc1c53a-1e01-43ce-ab70-c8813a49c187)
+
 As labels de seção estão identificadas entre [chaves]. Veja.
 ![image](https://github.com/allstack-staff/ChamadosEasyOfertas/assets/67238467/691c486a-c5a6-4607-99b2-4103d7476f6a)
 Selecione a seção onde o problema que encontrou está ocorrendo dentro do sistema.
