@@ -10,7 +10,7 @@ O chamado é desenvolvido em 3 partes:
 3. <b>Encerramento</b> (realizado pelo moderador, quando a demanda foi concluída).
 
 ### Os procedimentos
-1. Após vc abrir o chamado, entra o período de atendimento. Logo apos abrir, o atendimento começa por uma triagem.
+1. Após vc abrir o chamado, entra o período de <b>atendimento</b>. Logo apos abrir, o atendimento começa por uma triagem.
 <b>NOTA</b>: Em 99% das vezes a triagem não tem necessidade de comunicação com o cliente mas o moderador pode fazê-lo.
 2. Após a triagem, um analista preparado para resolver a demanda será designado para atendê-lo. Sua comunicação será assincrona através do chamado. Isto é, se ele precisar, atualizará o chamado com uma solicitação a vc e aguardará que responda para que possa prosseguir. Esse processo vai se repetir até que a demanda seja encerrada.
 3. O atendente sinalizará o moderador ao finalizar o atendimento. Então o moderador retoma a frente do atendimento e verifica se realmente foi resolvido. Evidenciado que sim, o moderador irá coletar o feedback do solicitante e encerrar a demanda.
