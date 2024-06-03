@@ -2,7 +2,7 @@
 Aqui é a área do cliente. Isto é, aqui vc pode abrir chamados para a equipe All Stack Team, responsável por desenvolver o Easy Ofertas. Esperamos que goste e seja fácil de usar. 
 
 ## Como funciona um chamado?
-Vc abre um chamado sempre que desejar entrar em contato com a equipe de desenvolvimento. Usar uma área ou um sistema para isso é importante para organizar e registrar as demandas entre cliente/equipe. Por tanto, sempre considere abrir um chamado. 
+Vc abre um chamado sempre que desejar entrar em contato com a equipe de desenvolvimento. Usar uma área ou um sistema para isso é importante para organizar e registrar as demandas entre cliente/equipe. Portanto, sempre considere abrir um chamado. 
 ### O processo
 O chamado é desenvolvido em 3 partes:
 1. Abertura, feita pelo cliente (solicitante);
